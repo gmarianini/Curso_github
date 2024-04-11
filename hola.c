@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-    printf("hola proyect\n");
+    printf("hola proyecto mundo\n");
     return 0;
     }
